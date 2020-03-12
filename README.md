@@ -1,2 +1,2 @@
 # Hangman
-Hangman game with 5 categories
+A clean and simple Hangman game with 5 categories
